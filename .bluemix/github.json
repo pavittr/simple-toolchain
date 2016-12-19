@@ -6,9 +6,13 @@
     "type": "object",
     "properties": {
         "repo_url": {
-            "description": "Source repository URL",
-            "type": "string",
-            "readonly": true
+            "type": "string"
         }
-    } 
+    },
+    "form": [{
+      "description": "Source repository URL",
+      "type": "text",
+      "key": "repo_url",
+      "readonly": true
+    }]
 }
