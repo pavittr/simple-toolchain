@@ -10,9 +10,9 @@
         }
     },
     "form": [{
-      "description": "Source repository URL",
+      "description": "Source repository URL2",
       "type": "text",
       "key": "repo_url",
-      "readonly": true
+      "readonly": "true"
     }]
 }
