@@ -50,3 +50,11 @@ deploy:
   service-category: pipeline
   parameters:
     prod-app-name: "{{sample-repo.parameters.repo_name}}"
+    
+#Github
+github:
+  schema:
+    $ref: github.json
+  service-category: githubpublic
+  parameters:
+    repo_url: https://github.com/open-toolchain/Microservices_CatalogAPI
