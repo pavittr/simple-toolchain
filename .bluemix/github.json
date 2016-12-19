@@ -10,8 +10,8 @@
         }
     },
     "form": [{
-      "description": "Source repository URL2",
-      "type": "text",
+      "description": "Source repository URL",
+      "type": "string",
       "key": "repo_url",
       "readonly": "true"
     }]
