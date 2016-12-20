@@ -10,7 +10,7 @@
       },
       "repo_type": {
         "type": "string",
-        "value": "Existing"
+        "default": "Existing"
       }
     },
     "form": [
