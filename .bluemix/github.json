@@ -7,13 +7,17 @@
     "properties": {
       "repo_url": {
           "type": "string"
+      },
+      "repo_type": {
+        "type": "string",
+        "value": "Existing"
       }
     },
     "form": [
       {
         "description": "Repository Type",
         "type": "string",
-        "value": "Existing",
+        "key": "repo_type",
         "readonly": "true"
        }, {
         "type": "label",
