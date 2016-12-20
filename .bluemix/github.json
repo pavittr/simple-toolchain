@@ -20,7 +20,7 @@
         "key": "repo_type",
         "readonly": "true"
        }, {
-      "description": "Link to the source repository URL that is specified",
+      "description": "Link to the specified source repository URL",
       "type": "string",
       "key": "repo_url",
       "readonly": "true"
