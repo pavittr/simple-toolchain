@@ -20,10 +20,7 @@
         "key": "repo_type",
         "readonly": "true"
        }, {
-        "type": "label",
-        "title": "Link to the repository that is specified in the Source repository URL field."
-      }, {
-      "description": "Source repository URL",
+      "description": "Link to the source repository URL that is specified",
       "type": "string",
       "key": "repo_url",
       "readonly": "true"
