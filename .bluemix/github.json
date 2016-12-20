@@ -13,10 +13,9 @@
       {
         "description": "Repository Type",
         "type": "string",
-        "key": "Existing",
+        "value": "Existing",
         "readonly": "true"
-       },
-      {
+       }, {
         "type": "label",
         "title": "Link to the repository that is specified in the Source repository URL field."
       }, {
