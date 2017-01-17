@@ -16,8 +16,8 @@ sample-repo:
   service_id: githubpublic
   parameters:
     repo_name: "{{name}}"
-    repo_url: https://github.com/open-toolchain/node-hello-world
-    type: clone
+    repo_url: "{{repo}}"
+    type: link
     has_issues: true
 
 # Pipelines
